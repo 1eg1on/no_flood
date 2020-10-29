@@ -1,2 +1,4 @@
 # no_flood
-Materials for solving the no_flood_ai hack.
+Here are stored all the materials for solving AI_NO_FLOOD hack by Sber.
+
+Commitments added by 1eg10n and NosoDaV.
